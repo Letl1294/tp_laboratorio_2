@@ -25,6 +25,13 @@ namespace Entidades
             this.numero = Double.Parse(numero);
         }
 
+        /// ValidarNumero
+        /// 
+        /// Realizamos un for para recorrer numero.
+        /// Una vez encontrado se lo sumamos al string aux.
+        /// return num (que es aux convertido en double).
+        ///
+
         private static double ValidarNumero(string numero)
         {
             string aux = "";
@@ -53,6 +60,12 @@ namespace Entidades
                 numero = ValidarNumero(value);
             }
         }
+
+        /// Decimal a Binario
+        /// 
+        /// con un if validamos que numero sea menor o igual que sero en ese caso es invalido. 
+        /// Con while mientras num sea mayor a 0 va a entrar y si el resto dividor 2 es 0 se sumara al string bin. Sino 1. 
+        /// return bin.
 
         public static string DecimalBinario(double num)
         {
@@ -100,6 +113,12 @@ namespace Entidades
             Console.WriteLine("Listo");
             return bin;
         }
+
+        /// BinarioDecimal
+        /// 
+        /// Con un for recorremos el array y entramos al if si es 1.
+        /// return suma convertido a string. 
+        /// 
 
         public static string BinaroDecimal(string num)
         {

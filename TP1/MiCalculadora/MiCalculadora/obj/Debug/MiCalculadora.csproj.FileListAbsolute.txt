@@ -18,3 +18,13 @@ G:\C#\MiCalculadora\MiCalculadora\obj\Debug\MiCalculadora.csproj.GenerateResourc
 G:\C#\MiCalculadora\MiCalculadora\obj\Debug\MiCalculadora.csproj.CoreCompileInputs.cache
 G:\C#\MiCalculadora\MiCalculadora\obj\Debug\MiCalculadora.exe
 G:\C#\MiCalculadora\MiCalculadora\obj\Debug\MiCalculadora.pdb
+G:\C#\tp_laboratorio_2\TP1\MiCalculadora\MiCalculadora\bin\Debug\MiCalculadora.exe.config
+G:\C#\tp_laboratorio_2\TP1\MiCalculadora\MiCalculadora\bin\Debug\MiCalculadora.exe
+G:\C#\tp_laboratorio_2\TP1\MiCalculadora\MiCalculadora\bin\Debug\MiCalculadora.pdb
+G:\C#\tp_laboratorio_2\TP1\MiCalculadora\MiCalculadora\obj\Debug\MiCalculadora.csprojAssemblyReference.cache
+G:\C#\tp_laboratorio_2\TP1\MiCalculadora\MiCalculadora\obj\Debug\MiCalculadora.FormCalculadora.resources
+G:\C#\tp_laboratorio_2\TP1\MiCalculadora\MiCalculadora\obj\Debug\MiCalculadora.Properties.Resources.resources
+G:\C#\tp_laboratorio_2\TP1\MiCalculadora\MiCalculadora\obj\Debug\MiCalculadora.csproj.GenerateResource.cache
+G:\C#\tp_laboratorio_2\TP1\MiCalculadora\MiCalculadora\obj\Debug\MiCalculadora.csproj.CoreCompileInputs.cache
+G:\C#\tp_laboratorio_2\TP1\MiCalculadora\MiCalculadora\obj\Debug\MiCalculadora.exe
+G:\C#\tp_laboratorio_2\TP1\MiCalculadora\MiCalculadora\obj\Debug\MiCalculadora.pdb

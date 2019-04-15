@@ -6,6 +6,11 @@ using System.Threading.Tasks;
 
 namespace Entidades
 {
+
+    /// Calculadora
+    /// Validamos el operador.
+    /// return operador
+
     class Calculadora
     {
         private static string validarOperador(string operador)
@@ -20,6 +25,13 @@ namespace Entidades
                 return operador;
             }
         }
+
+        /// Operar
+        /// 
+        /// le pasamos a la funcion 2 numero y un operador.
+        /// validamos el operador.
+        /// con un switch recorremos para entrar en a la operacion correcta. 
+        /// return resul.
 
         public static double Operar(Numero num1, Numero num2, string operador)
         {
